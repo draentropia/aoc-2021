@@ -1,0 +1,7 @@
+# AoC 2021
+
+## Day one
+### Part one: 
+Given a list of numbers, return the times that the n+1 is greather than n.
+## Part two:
+The same but considering the sum of three consecutive numbers. Return the times that the sum of the elements n+3, n+4 and n+5 is greather than the sum of elements n, n+1 and n+2
