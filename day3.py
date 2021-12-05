@@ -1,5 +1,3 @@
-import numpy as np
-
 # read input
 f = open('day3_input.txt', 'r')
 inps = f.readlines()
